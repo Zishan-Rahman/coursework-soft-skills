@@ -50,4 +50,4 @@ If you don't want to buld the program and want to run it directly through Python
 
 ### License
 
-MIT (see LICENSE.txt)
+MIT (see LICENSE file)
