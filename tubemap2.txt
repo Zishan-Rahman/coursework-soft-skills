@@ -1,0 +1,10 @@
+{'question': 'How many stations are there in this segment of the Central line with wheelchair symbols?', 'ans1': '5', 'ans2': '4', 'ans3': '6', 'ans4': '9', 'correct': '5'}
+{'question': 'How many stations would it be, at MINIMUM, to get to Woodford from Leytonstone?', 'ans1': '7', 'ans2': '3', 'ans3': '11', 'ans4': '14', 'correct': '3'}
+{'question': 'All of the Central line stations in this segment are in which zone (Leystonstone lies in the border, so counts)?', 'ans1': '1', 'ans2': '2', 'ans3': '3', 'ans4': '4', 'correct': '4'}
+{'question': 'The Goodmayes, Seven Kings and Ilford stations at the bottom left are part of which line?', 'ans1': 'DLR', 'ans2': 'TfL Line', 'ans3': 'Northern', 'ans4': 'Overground', 'correct': 'TfL Line'}
+{'question': 'Of the 3 stations in the bottom left, connected by the double-blue line, which of those have a wheelchair symbol?', 'ans1': 'None of them', 'ans2': '1', 'ans3': '2', 'ans4': '3', 'correct': '3'}
+{'question': 'The three stations in the bottom left (double-blue line) are in which zone', 'ans1': '2', 'ans2': '3', 'ans3': '4', 'ans4': '5', 'correct': '4'}
+{'question': 'How many of the Central line stations in this segment DO NOT contain wheelchair symbols?', 'ans1': '10', 'ans2': '11', 'ans3': '9', 'ans4': '8', 'correct': '9'}
+{'question': 'What is the only track in the bottom left (double-blue line) without a wheelchair symbol?', 'ans1': 'Ilford', 'ans2': 'Seven Kings', 'ans3': 'Goodmayes', 'ans4': 'They all have wheelchair symbols', 'correct': 'Ilford'}
+{'question': 'What does the wheelchair symbol even mean?', 'ans1': 'Step-free access from street to platform', 'ans2': 'Disabled toilets available', 'ans3': 'There are disabled people who work at this station', 'ans4': 'Beds for disabled people', 'correct': 'Step-free access from street to platform'}
+{'question': '\'Leytonstone\' station has a box around it. What does that mean?', 'ans1': 'It lies in the border of zones 3 and 4', 'ans2': 'It\'s a very busy station', 'ans3': 'The station has some disability arrangements', 'ans4': 'The station is very big', 'correct': 'It lies in the border of zones 3 and 4'}

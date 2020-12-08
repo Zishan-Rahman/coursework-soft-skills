@@ -1,0 +1,10 @@
+{'question': 'How many times does the student have a science lesson (Biology, Chemistry, Physics)?', 'ans1': '6', 'ans2': '2', 'ans3': '3', 'ans4': '10', 'correct': '6'}
+{'question': 'How many free periods are in the timetable shown?', 'ans1': '3', 'ans2': '5', 'ans3': 'There Are None', 'ans4': '7', 'correct': 'There Are None'}
+{'question': 'When does DT occur on Wednesday?', 'ans1': 'Period 4', 'ans2': 'Period 1', 'ans3': 'Period 3', 'ans4': 'Period 5', 'correct': 'Period 5'}
+{'question': 'How long does break time last?', 'ans1': '15 minutes', 'ans2': '10 minutes', 'ans3': '20 minutes', 'ans4': '12.5 minutes', 'correct': '20 minutes'}
+{'question': 'How many times does the student have Art?', 'ans1': 'Once', 'ans2': 'Twice', 'ans3': 'Three Times', 'ans4': 'They don\'t study Art', 'correct': 'Once'}
+{'question': 'When is form time?', 'ans1': 'Before Lunch', 'ans2': 'After Break', 'ans3': 'After Lunch', 'ans4': 'Before Period 1', 'correct': 'Before Lunch'}
+{'question': 'When does the student have Spanish?', 'ans1': 'Wednesday and Thursday, both Period 3', 'ans2': 'Wednesday Periods 3 and 4, Thursday Period 3', 'ans3': 'Wednesday Periods 3 and 4', 'ans4': 'Thursday Periods 2 and 3', 'correct': 'Wednesday and Thursday, both Period 3'}
+{'question': 'When does the student have English on a Friday?', 'ans1': 'Period 1', 'ans2': 'Period 3', 'ans3': 'Period 5', 'ans4': 'They don\'t have English on Friday', 'correct': 'Period 3'}
+{'question': 'Who is the student\'s English teacher?', 'ans1': 'Mr Stevens', 'ans2': 'Ms Stevens', 'ans3': 'Dr Mark', 'ans4': 'It doesn\'t show the teacher\'s names anywhere', 'correct': 'It doesn\'t show the teacher\'s names anywhere'}
+{'question': 'How many times EACH does the student have ICT, PE, Music, French, Spanish and DT?', 'ans1': 'Three Times', 'ans2': 'Once', 'ans3': 'None', 'ans4': 'Twice', 'correct': 'Twice'}

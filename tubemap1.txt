@@ -1,0 +1,10 @@
+{'question': 'Which line is the Maida Vale station on?', 'ans1': 'Central', 'ans2': 'District', 'ans3': 'Bakerloo', 'ans4': 'Circle', 'correct': 'Bakerloo'}
+{'question': 'To go from North Acton to Bayswater, where do you need to change lines?', 'ans1': 'Edgware Road', 'ans2': 'Notting Hill Gate', 'ans3': 'Shepherd\'s Bush', 'ans4': 'Wood Lane', 'correct': 'Notting Hill Gate'}
+{'question': 'What lines are Shepherd\'s Bush station on?', 'ans1': 'Central and Overground', 'ans2': 'Central and Cirle', 'ans3': 'District and Hammesmith and City', 'ans4': 'Bakerloo and Hammersmith and City', 'correct': 'Central and Overground'}
+{'question': 'Ladbroke Grove and Bayswater are on the same line. Which line?', 'ans1': 'Central', 'ans2': 'District', 'ans3': 'Hammersmith and City', 'ans4': 'Circle', 'correct': 'Hammersmith and City'}
+{'question': 'Which one of these lines is Paddington NOT connected to (i.e. "out-of-station interchange")?', 'ans1': 'Bakerloo', 'ans2': 'District', 'ans3': 'Central', 'ans4': 'Hammersmith and City', 'correct': 'Central'}
+{'question': 'Which line is the East Action station on?', 'ans1': 'Central', 'ans2': 'District', 'ans3': 'Hammersmith and City', 'ans4': 'TfL Rail', 'correct': 'Central'}
+{'question': 'In the extract of the tube map shown, how many times does the name \'Edgware Road\' appear?', 'ans1': 'Once', 'ans2': 'Twice', 'ans3': 'Three Times', 'ans4': 'It appears nowhere in the picture', 'correct': 'Twice'}
+{'question': 'If you were going from Kilburn Park to Royal Oak, where would you need to change lines?', 'ans1': 'Shepherd\'s Bush', 'ans2': 'Edgware Road', 'ans3': 'Paddington', 'ans4': 'Notting Hill Gate', 'correct': 'Paddington'}
+{'question': 'Aside from Central and National Rail, which line also has a station at Shepherd\'s Bush (an out-of-station interchange)?', 'ans1': 'Overground', 'ans2': 'Circle', 'ans3': 'Hammersmith and City', 'ans4': 'District', 'correct': 'Overground'}
+{'question': 'Wood Lane is an out-of-station interchange for which Central line station?', 'ans1': 'Notting Hill Gate', 'ans2': 'White City', 'ans3': 'Holland Park', 'ans4': 'Shepherd\'s Bush', 'correct': 'White City'}

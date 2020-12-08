@@ -1,0 +1,6 @@
+pygame #for playing the audio files -- uses GNU Lesser General Public License
+opencv-python #for using the devices webcam -- uses MIT License
+numpy #for use in the same file as the webcam text -- uses BSD License
+Pillow #for showing the tube and timetable images -- uses PIL Software License
+cx_Freeze #(optional) for the creation of the Windows .exe file -- uses Python Software Foundation License
+py2exe #(optional) for the creation of the Windows .exe file -- uses MIT License

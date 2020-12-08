@@ -1,0 +1,10 @@
+{'question': 'When does Period 5?', 'ans1': 'At 1:10PM', 'ans2': 'At 12:50PM', 'ans3': 'There is no form time', 'ans4': 'At 2:00PM', 'correct': 'There is no form time'}
+{'question': 'How many free periods does the student have IN TOTAL?', 'ans1': '6', 'ans2': '7', 'ans3': '8', 'ans4': '9', 'correct': '7'}
+{'question': 'How many subjects (not counting free periods, breaks and form times) does the student have?', 'ans1': '1', 'ans2': '2', 'ans3': '3', 'ans4': '4', 'correct': '4'}
+{'question': 'How many times does the student have 2 free periods back-to-back?', 'ans1': 'Once', 'ans2': 'Three Times', 'ans3': 'It doesn\'t happen anywhere in the week', 'ans4': 'Twice', 'correct': 'Twice'}
+{'question': 'On which day does the student have PE?', 'ans1': 'Tuesday', 'ans2': 'Wednesday', 'ans3': 'Monday', 'ans4': 'Friday', 'correct': 'Wednesday'}
+{'question': 'Which of these days is the 4th period NOT a free period (it\'s English instead)?', 'ans1': 'Tuesday', 'ans2': 'Wednesday', 'ans3': 'Monday', 'ans4': 'Thursday', 'correct': 'Wednesday'}
+{'question': 'How many days does the student have Maths for Period 1', 'ans1': 'Twice', 'ans2': 'Three Times', 'ans3': 'Once', 'ans4': 'None', 'correct': 'Three Times'}
+{'question': 'When does the day end?', 'ans1': '1:00PM', 'ans2': '2:00PM', 'ans3': '1:10PM', 'ans4': '3:00PM', 'correct': '1:10PM'}
+{'question': 'Which of these days does NOT have a free period?', 'ans1': 'Monday', 'ans2': 'None of them', 'ans3': 'Wednesday', 'ans4': 'Friday', 'correct': 'Wednesday'}
+{'question': 'How many science subjects does the student study according to the timetable?', 'ans1': 'One', 'ans2': 'Two', 'ans3': 'Three', 'ans4': 'None', 'correct': 'Two'}

@@ -1,0 +1,22 @@
+{'audio': 1, 'text': 'the quick brown fox jumps over the lazy dog'}
+{'audio': 2, 'text': 'cash in the attic'}
+{'audio': 3, 'text': 'america likes to talk'}
+{'audio': 4, 'text': 'would you like to have a banana'}
+{'audio': 5, 'text': 'do you know who this person is'}
+{'audio': 6, 'text': 'she speaks english'}
+{'audio': 7, 'text': 'the early morning'}
+{'audio': 8, 'text': 'consequently'}
+{'audio': 9, 'text': 'how has your day been'}
+{'audio': 10, 'text': 'it is raining today'}
+{'audio': 11, 'text': 'welcome to my world'}
+{'audio': 12, 'text': 'the things i do for others'}
+{'audio': 13, 'text': 'single file please'}
+{'audio': 14, 'text': 'i wake up in the morning'}
+{'audio': 15, 'text': 'this is a test'}
+{'audio': 16, 'text': 'hello and welcome'}
+{'audio': 17, 'text': 'he went to the coffee shop'}
+{'audio': 18, 'text': 'someone said this'}
+{'audio': 19, 'text': 'storm in a teacup'}
+{'audio': 20, 'text': 'spill the beans'}
+{'audio': 21, 'text': 'under the weather'}
+{'audio': 22, 'text': 'do you know what the time is'}
