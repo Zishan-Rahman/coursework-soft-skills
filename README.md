@@ -4,7 +4,7 @@
 
 This was originally written (primarily by me) as a coursework project for the AQA Computer Science A-Level Course (code: 7517).
 
-This is a Windows application for assessing a special needs student's soft skills. Soft skills are historically harder to assess than hard skills, but are just as, if not more, important in various aspects of life (i.e. work, study et cetera). Hence, this program was written as an attempt to mitigate these problems.
+This is a Windows application for assessing a special needs student's soft skills. Soft skills are historically harder to assess than hard skills, but are just as, if not more, important in various aspects of life (i.e. work, study et cetera). Hence, this program was written as an attempt to mitigate these problems. The corresponding coursework document may or may not be uploaded to the repo later on.
 
 Changes to this program may or may not occur in the future, but apart from the requirements, readme and license files, and the vscode folder, everything else is as was submitted in early April 2020. There are also plans to test out more builds for platforms other than Windows (and APIs other than Win32).
 
