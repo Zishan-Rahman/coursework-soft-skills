@@ -8,7 +8,7 @@ This is a Windows application for assessing a special needs student's soft skill
 
 Changes to this program may or may not occur in the future, but apart from the requirements, readme and license files, and the vscode folder, everything else is as was submitted in early April 2020. There are also plans to test out more builds for platforms other than Windows (and APIs other than Win32).
 
-## **DISCLAIMER**
+### **DISCLAIMER**
 
 **The software was primarily written as a coursework project and _MUST NOT_ be interpreted as scientific fact. This is by no means a perfect solution to assessing soft skills. In addition, this program doesn't have sufficient documentation (besides comments in the source code) as of late and, at the moment, no major development on this has occured in quite a while, so please do not interpret results from assessments held on this program as hardline evidence on students.**
 
